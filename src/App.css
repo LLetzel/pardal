@@ -37,3 +37,18 @@ body {
   background-size: cover;
   transition: 2S;
 }
+
+.topicos{
+  display: flex;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: x-large;
+}
+
+nav{
+  background: transparent;
+  backdrop-filter: blur(70px);
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 6px;
+  display:flex ;
+  
+}

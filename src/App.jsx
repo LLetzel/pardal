@@ -15,6 +15,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Contato />}/>
           <Route path="/home" element={<Home />}/>
+          <Route path="/carousel" element={<Home />}/>
           
         </Routes>
       </BrowserRouter>
